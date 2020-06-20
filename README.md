@@ -12,4 +12,6 @@ This repo contains resources for the third COVID-19 Data Tutorial, hosted by Sam
   
 3. **Jupyter notebook**. For convenience, a Jupyter version is included as well. This notebook can be executed in the cloud using the above-mentioned Binder link, or you can download it and run it locally.
 
-4. **Pluto notebook preview.** If you want to see what the Pluto notebook looks like, check out `covid19bayesian.html`.
+4. **Pluto notebook preview.** If you want to see what the Pluto notebook looks like, check out `covid19bayesian.html`. You'll want to copy the whole repo and view this file locally, since the HTML file needs to be in the same directory as the folder `covid19bayesian_files`.
+
+![](https://raw.githubusercontent.com/sswatson/covid19tutorial/master/rt-and-cases.png)
